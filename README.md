@@ -106,7 +106,7 @@ We evaluated the models listed in Table \ref{tab:my-table}. The models highlight
 | **DeepSeek-R1***            | 671B      | open/api   | reasoner  | Idefics-9B                   | 9B        | open           | instruct |
 | DeepSeek-V3            | 671B      | open/api   | chat      | Darwin                       | 7B        | open           | v1.5     |
 | LLaVA1.5-7B            | 7B        | open       | v1.5      | BioGPT                       | 1.5B      | open           | Large    |
-| LLaVA1.5-13B           | 13B       | open       | v1.5      | ScienceOne                   | 8B      | open           | mini    |
+| LLaVA1.5-13B           | 13B       | open       | v1.5      | ScienceOne                   | 8B      | open           | Base    |
 
 
 ### Inference
