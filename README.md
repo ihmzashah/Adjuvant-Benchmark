@@ -15,8 +15,7 @@ We systematically assess 11 closed-source and 18 open-source MLLMs across dimens
 
 
 <div align="center" style="background-color: white; padding: 10px; display: inline-block;">
-  <img src="https://github.com/banjiuyufen/Adjuvant_benchmark/blob/main/img/Comprehensive%20Evaluation%20of%20MLLMs%20on%20the%20Adjuvant%20Benchmark.png
-" alt="Comprehensive Evaluation of MLLMs on the Adjuvant Benchmark" width="85%">
+  <img src="https://github.com/banjiuyufen/Adjuvant_benchmark/blob/main/img/Comprehensive%20Evaluation%20of%20MLLMs%20on%20the%20Adjuvant%20Benchmark.png" alt="Comprehensive Evaluation of MLLMs on the Adjuvant Benchmark" width="85%">
   <p>Figure 1: Comprehensive Evaluation of MLLMs on the Adjuvant Benchmark</p>
 </div>
 
