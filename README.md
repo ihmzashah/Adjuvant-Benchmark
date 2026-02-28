@@ -532,16 +532,28 @@ During the labeling process, experts assigned subjective scores ( from 0 to 10 )
         <td>1.9</td>
     </tr>
     <tr>
+        <td>ScienceOne</td>
+        <td>0.7252</td>
+        <td>0.5408</td>
+        <td>6.9</td>
+        <td>8.5</td>
+        <td>7.0</td>
+        <td>6.8</td>
+        <td>8.5</td>
+        <td>6.9</td>
+        <td>7.4</td>
+    </tr>
+    <tr>
         <td><strong>Average</strong></td>
-        <td><strong>0.6846</strong></td>
-        <td><strong>0.5501</strong></td>
-        <td><strong>5.4</strong></td>
-        <td><strong>7.0</strong></td>
-        <td><strong>5.5</strong></td>
-        <td><strong>6.0</strong></td>
+        <td><strong>0.6922</strong></td>
+        <td><strong>0.5504</strong></td>
+        <td><strong>5.7</strong></td>
         <td><strong>7.4</strong></td>
         <td><strong>5.8</strong></td>
-        <td><strong>6.2</strong></td>
+        <td><strong>5.9</strong></td>
+        <td><strong>7.5</strong></td>
+        <td><strong>5.8</strong></td>
+        <td><strong>6.4</strong></td>
     </tr>
 </table>
 
