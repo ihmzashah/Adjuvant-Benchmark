@@ -649,7 +649,7 @@ This benchmark dataset contains cropped images, figures, and localized visual co
 ---
 
 # Acknowledgement
-This work is sponsored by CAS Project for Young Scientists in Basic Research (YSBR-083), Strategic Priority Research Program of Chinese Academy of Sciences (No. XDA0480000, XDA0480200 and XDA0480204), Young Scientists Fund Category C (NO.62506357), Young Scientists Fund of The State Key Laboratory of Multimodal Artificial Intelligence Systems (No.ES2P100110), 2035 Innovation Mission Project of CASIA (No.E4J10102).
+This work is sponsored by CAS Project for Young Scientists in Basic Research (YSBR-083), Strategic Priority Research Program of Chinese Academy of Sciences (No. XDA0480000, XDA0480200 and XDA0480204), Young Scientists Fund of The State Key Laboratory of Multimodal Artificial Intelligence Systems (No.ES2P100110), 2035 Innovation Mission Project of CASIA (No.E4J10102), Zhongguancun Academy Project No.02012501.
 
 ## Citation
 
